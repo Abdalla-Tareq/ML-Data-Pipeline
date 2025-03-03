@@ -1,9 +1,11 @@
 ML_Project - Machine Learning GUI Application 🎯
 This project is a GUI application built with Tkinter, designed to simplify data analysis, preprocessing, classification, and clustering interactively without the need for coding.
 
+
 🔹 Key Features
 1️⃣ Data Selection: Users can load a CSV file to explore and analyze its content.
 2️⃣ Data Preprocessing:
+
 
 Handle missing values (Mean, Median, Most Frequent).
 Normalize and standardize data (Normalization & Standardization).
@@ -13,12 +15,14 @@ Handle imbalanced data using SMOTE.
 Split data into training and testing sets.
 3️⃣ Classification using SVM, KNN, ANN, Decision Tree with accuracy evaluation.
 4️⃣ Clustering using K-Means with result analysis.
+
 🔹 Technologies Used
 Python 3.12
 Tkinter (GUI)
 Pandas (Data Processing)
 Scikit-learn (Machine Learning)
 Imbalanced-learn (SMOTE)
+
 🔹 How to Use?
 1️⃣ Run the application.
 2️⃣ Select a CSV dataset.
