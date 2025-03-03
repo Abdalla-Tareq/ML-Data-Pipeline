@@ -40,7 +40,7 @@ We welcome contributions! You can:
 
 ## 👤 Developer  
 
-- **Abdullah Tarek**  
+- **Abdallah Tarek**  
 - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/abdalla-tarek-21a025263/)  
 
 🚀 A simple project that makes machine learning accessible without coding!
